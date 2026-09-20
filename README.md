@@ -211,4 +211,4 @@ Freebox Jukebox is available as a full free version with all features and update
 Get started today and elevate your multimedia experience with Freebox Jukebox! Download now and enjoy the full version with all features included.
 
 ---
-**Last updated:** 2026-09-20 10:49:19 UTC
+**Last updated:** 2026-09-20 14:33:55 UTC
